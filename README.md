@@ -1,4 +1,4 @@
-# Minesweeper
+# **The Coding Train** Minesweeper
 
 Attempt to code Minesweeper game in Javascript
 
@@ -7,6 +7,6 @@ Attempt to code Minesweeper game in Javascript
 ```shell
 git clone https://github.com/eduardopeixe/ms.git
 cd ms
-npm install
-npm start
 ```
+
+Open **index.html** on the browser

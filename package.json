@@ -1,0 +1,19 @@
+{
+  "name": "ms",
+  "version": "1.0.0",
+  "description": "Attempt to code Minesweeper game in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardopeixe/ms.git"
+  },
+  "author": "Eduardo Peixe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardopeixe/ms/issues"
+  },
+  "homepage": "https://github.com/eduardopeixe/ms#readme"
+}
